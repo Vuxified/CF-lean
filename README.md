@@ -4,6 +4,7 @@
 Requirements:
 QB-Target
 
+If you are using the locations I made, use the MLOs I sent
 
 
 Drug Script 
