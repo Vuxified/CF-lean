@@ -1,4 +1,9 @@
 # CF-lean
+
+Requirements:
+QB-Target
+
+
 Drug Script 
 ['lean'] 		 		 = {['name'] = 'lean', 			 			['label'] = 'Lean', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'images/lean.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Time to get fucked up'},
 
