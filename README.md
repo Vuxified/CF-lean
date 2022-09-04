@@ -1,6 +1,5 @@
 # CF-lean
-MLO Used based on this script:
-https://www.gta5-mods.com/maps/mlo-drugfarm-add-on-fivem
+
 
 Requirements:
 QB-Target
