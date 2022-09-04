@@ -25,6 +25,8 @@ Add this into your qb-shops
 1. Go to Config.lua
 2. Config.Products
 3. Copy this code
+
+
  [13] = {
             name = "styrofoamcups",
             price = 2,
@@ -39,8 +41,9 @@ Add this into your qb-shops
 }
 }
 
-Add this in qbcore/server/player.lua
 
+Add this in qbcore/server/player.lua
+around line 80
 PlayerData.metadata['drugxp'] = PlayerData.metadata['drugxp'] or 0 -- Added for lean or drug you wish to make.
 
 Go to qb-drugs/config.lua
